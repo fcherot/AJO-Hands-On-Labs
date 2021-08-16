@@ -8,7 +8,7 @@ Welcome to the Adobe Journey Optimizer Hands on Lab Home page.
 
 ### Day 1
 
-#### Data Foundation
+#### Foundations
 
 - [Schemas](Foundations/Schemas.md)
 - [Datasets](Foundations/Datasets.md)
