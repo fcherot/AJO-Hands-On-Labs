@@ -1,32 +1,51 @@
-# Adobe Journey Orchestration Hands-On-Lab
+# Adobe Journey Optimizer Hands-On-Lab
 
-Welcome to the Adobe Journey Orchestration Hands on Lab front page.
+Welcome to the Adobe Journey Optimizer Hands on Lab Home page.
 
 ## Lab Agenda
 
-### Foundations
+&nbsp;
+
+### Day 1
+
+#### Data Foundation
 
 - [Schemas](Foundations/Schemas.md)
 - [Datasets](Foundations/Datasets.md)
-- [Profiles & Identities](Foundations/Profiles.md)
-- [Segments](Foundations/Segments.md)
 
-### Journey Orchestration
+#### Data Ingestion
 
-- [Exercise 1 - Define an Event](Journey%20Orchestration/Exercise1-Events.md)
-- [Exercise 2 - Define an External Data Source](Journey%20Orchestration/Exercise2-DataSources.md)
-- [Exercise 3 - Define a Custom Action](Journey%20Orchestration/Exercise3-Action.md)
-- [Exercise 4 - Design a Event-based Customer Journey](Journey%20Orchestration/Exercise4-Journey.md)
+- [Lab -Data Ingestion](Foundations/Ingestion.md)
 
-### Offer Decisioning Engine
+#### Segmentation
 
-- [Glossary of Terms](Offer%20Decisioning%20Engine/Glossary.md)
-- [Working with the Offer UI](Offer%20Decisioning%20Engine/OffersUI.md)
-- [Exercise 1 - Define a Tag](Offer%20Decisioning%20Engine/Exercise1-Tags.md)
-- [Exercise 2 - Define an Placement](Offer%20Decisioning%20Engine/Exercise2-Placements.md)
-- [Exercise 3 - Define a Decision Rules](Offer%20Decisioning%20Engine/Exercise3-DecisionRules.md)
-- [Exercise 4 - Create Personalized Offers](Exercise4-PersonalizedOffers.md)
-- [Exercise 5 - Create a Fallback Offer](Offer%20Decisioning%20Engine/Exercise5-FallbackOffer.md)
-- [Exercise 6 - Create a Collection](Offer%20Decisioning%20Engine/Exercise6-Collections.md)
-- [Exercise 7 - Create a Offer Activity](Offer%20Decisioning%20Engine/Exercise7-OfferActivity.md)
-- [Exercise 8 - Validate Your Offer ](Offer%20Decisioning%20Engine/Exercise8-ValidateOffer.md)
+- [Lab - Profiles & Identities ](Foundations/Profiles.md)
+- [Lab - Segmentation](Foundations/Segments.md)
+
+#### Offer and Journey Components
+
+- [Lab -Define a Tag](Offer%20Decisioning%20Engine/Exercise1-Tags.md)
+- [Lab - Define a Decision Rules](Offer%20Decisioning%20Engine/Exercise3-DecisionRules.md)
+- [Lab - Create a Collection](Offer%20Decisioning%20Engine/Exercise6-Collections.md)
+- [Lab - Create a Offer Decision](Offer%20Decisioning%20Engine/Exercise7-OfferActivity.md)
+
+&nbsp;
+
+### Day 2
+
+#### Content Authoring
+
+- [Lab - Assets Essentials Deep Dive](Content%20Authoring/Assets%20Essentials%20Deep%20Dive.md)
+- [Lab - Email Designer Deep Dive](Content%20Authoring/Email%20Designer%20Deep%20Dive.md)
+
+#### Basic Journey
+
+- [Lab - Define an Event](Journey%20Orchestration/Exercise1-Events.md)
+- [Lab - Define an External Data Source](Journey%20Orchestration/Exercise2-DataSources.md)
+- [Lab - Define a Custom Action](Journey%20Orchestration/Exercise3-Action.md)
+- [Lab - Design a Event-based Customer Journey](Journey%20Orchestration/Exercise4-Journey.md)
+
+#### Complex Journey
+
+- [Lab - Create Personalized Offers](Exercise4-PersonalizedOffers.md)
+- [Lab - Validate Your Offer ](Offer%20Decisioning%20Engine/Exercise8-ValidateOffer.md)
