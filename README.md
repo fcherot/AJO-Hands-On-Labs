@@ -1,6 +1,6 @@
 # Adobe Journey Optimizer - Hands On Labs
 
-Welcome to the Adobe Journey Optimizer Hands on Lab Home page.
+Welcome to the Adobe Journey Optimizer Hands-On Lab Home page.
 
 ## Lab Agenda
 
