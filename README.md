@@ -24,7 +24,7 @@ Welcome to the Adobe Journey Optimizer Hands on Lab Home page.
 
 #### Offer and Journey Components
 
-- [Lab -Define a Tag](Offer%20Decisioning%20Engine/Exercise1-Tags.md)
+- [Lab - Define a Tag](Offer%20Decisioning%20Engine/Exercise1-Tags.md)
 - [Lab - Define a Decision Rules](Offer%20Decisioning%20Engine/Exercise3-DecisionRules.md)
 - [Lab - Create a Collection](Offer%20Decisioning%20Engine/Exercise6-Collections.md)
 - [Lab - Create a Offer Decision](Offer%20Decisioning%20Engine/Exercise7-OfferActivity.md)
