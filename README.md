@@ -1,4 +1,4 @@
-# Adobe Journey Optimizer - Hands On Labs
+# Adobe Journey Optimizer - Hands-On Labs
 
 Welcome to the Adobe Journey Optimizer Hands-On Lab Home page.
 
