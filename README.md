@@ -1,1 +1,1 @@
-# ajo-handson-labs
+# Adobe Journey Optimizer - Hands On Labs
