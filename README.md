@@ -15,7 +15,7 @@ Welcome to the Adobe Journey Optimizer Hands on Lab Home page.
 
 #### Data Ingestion
 
-- [Lab -Data Ingestion](Foundations/Ingestion.md)
+- [Lab - Data Ingestion](Foundations/Ingestion.md)
 
 #### Segmentation
 
