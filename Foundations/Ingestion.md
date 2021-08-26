@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 Lab 1.1 - Ingestion - CSV to XDM Mapping
+=======
+Lab 1.1 - Ingestion - Loading Data from SFTP
+>>>>>>> Stashed changes
 ==========
 <table style="border-collapse: collapse; border: none;" class="tab" cellspacing="0" cellpadding="0">
 
